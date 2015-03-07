@@ -9,9 +9,11 @@ lx_test_statistic.py
     测试的统计信息
 
 运行：
-  编辑lx_http_connector.py,
+    python 版本要求3.0以上
+    编辑lx_http_connector.py,
     urls=[url1,url2]
-  python lx_http_test.py -h 查看帮助选项信息及用法
+  
+    python lx_http_test.py -h 查看帮助选项信息及用法
   
   作者：德才  
   email:jindc@163.com
